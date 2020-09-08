@@ -33,6 +33,13 @@ out/
 /build/
 ./build
 /*/build/
+libs/FCAClient/build
+libs/BaseNetworkingClient/build
+libs/MoparWebClient/build
+libs/NextGenClient/build
+libs/TweddleClient/build
+
+
 
 
 # Local configuration file (sdk path, etc)
